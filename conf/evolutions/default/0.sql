@@ -13,10 +13,10 @@
 
 # --- !Ups
 
-create database sample
+create database ribbon
 	charset utf8mb4
 	collate utf8mb4_bin;
 
 # --- !Downs
 
-drop database sample;
+drop database ribbon;
